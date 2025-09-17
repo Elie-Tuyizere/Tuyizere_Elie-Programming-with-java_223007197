@@ -3,6 +3,7 @@
 ### A supermarket owner wants to automate the billing process. Currently, they calculate each item’s cost manually, which is time-consuming and error-prone. They want a program that calculates the total bill quickly and applies discounts automatically.
 
 <img width="1338" height="747" alt="case study 1 Supermarket Billing System" src="https://github.com/user-attachments/assets/92dc68dc-56a0-4044-bb5a-31fe91d97870" />
+
 # Case Study 2: Student Grading System (While Loop)
 ## Background:
 ### A university lecturer wants a program to help record student exam marks. The lecturer does not know in advance how many students will take the exam, so the system should allow continuous entry until they decide to stop.

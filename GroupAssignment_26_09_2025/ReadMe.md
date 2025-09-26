@@ -1,9 +1,8 @@
-/** 
+
 ## Group members:
-TUYIZERE Elie     223007197
-HABUMUGISHA Eric  223009063
-NIKUBWAYO Leandre 223015716
-**/
+### 1. TUYIZERE Elie     223007197
+### 2. HABUMUGISHA Eric  223009063
+### 3. NIKUBWAYO Leandre 223015716
 # Screenshoots of Our Assignment Hostel Management System
 ## Login
 <img width="308" height="265" alt="Screenshot 2025-09-26 175500" src="https://github.com/user-attachments/assets/5eb4563d-074c-4503-8dfb-aaa9b8a24ac6" />
